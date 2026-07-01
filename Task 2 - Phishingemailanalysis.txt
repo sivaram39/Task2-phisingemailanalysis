@@ -1,0 +1,25 @@
+Task 2 - Phishing Email Analysis
+
+Email Subject:
+EFT Activity Notification (Your payment is processing)
+
+Sender:
+Peoples Bank
+
+Phishing Indicators Found:
+
+1. The email creates urgency by asking the user to verify a payment immediately.
+
+2. It instructs the user to log in and check account activity, which is a common phishing technique.
+
+3. The sender claims to be a bank, which is a common form of brand impersonation.
+
+4. The email originally contained links (removed in this example). Phishing emails often use fake links to steal credentials.
+
+5. The email does not address the recipient by name, making it appear like a mass-sent message.
+
+6. The sender's actual email address is not shown, so its authenticity cannot be verified.
+
+Conclusion:
+
+Based on the above indicators, this email appears suspicious and should be treated as a phishing email. Users should avoid clicking any links or providing personal or banking information without verifying the sender.
